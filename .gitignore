@@ -16,6 +16,9 @@
 # Mono auto generated files
 mono_crash.*
 
+# Obsidian cache/options directory
+.obsidian/
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
